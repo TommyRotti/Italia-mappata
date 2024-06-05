@@ -5,6 +5,7 @@ h1{
 
 h2{
     color: deeppink;
+    margin: 2px;
 }
 
 body {
@@ -12,4 +13,21 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 70px;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+tr{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: x-large;
+    border: orange;
+}
+
+td{
+    font-style: italic;
+    font-size: medium;
+    font-weight: normal;
 }
